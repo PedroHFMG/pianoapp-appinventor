@@ -9,4 +9,4 @@ Funções:
 * Modo teoria que permite que o usuário veja as notas que fazem parte das escalas básicas maiores/menores.
 
   
-Incompleto (sequência de escalas e melhor polimento) que não virão a ser implementadas.
+Incompleto (sequência de escalas e melhor polimento) com funções que não virão a ser implementadas.
