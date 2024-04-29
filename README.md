@@ -1,5 +1,6 @@
 # PianoAPP - MIT App Inventor
-Criado com APP Inventor
+Criado com a ferramenta MIT APP Inventor.
+
 Trabalho final da matéria de Desenvolvimento de Aplicações Móveis da UEMG de Frutal, no ano de 2023.
 
 Funções:
